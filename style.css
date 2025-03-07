@@ -1,0 +1,28 @@
+table {
+    /* border:1px solid #000; */
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-spacing: 0;  
+}
+
+th{
+    background-color: rgb(171, 171, 171);
+}
+
+th, td{
+    border:1px solid #000;
+    text-align: center;
+    height: 30px;
+}
+
+.lecture{
+    background-color: lightgray;
+}
+
+.staffMeetings{
+    background-color: grey;
+    font-style: italic;
+}
+
+.bold{
+    font-weight: bold;
+}
